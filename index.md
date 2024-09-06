@@ -5,4 +5,4 @@ description: Home Page
 hide: true
 ---
 
-My journey starts here.
+Highest run-scoring players, world records and more.

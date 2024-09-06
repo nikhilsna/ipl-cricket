@@ -4,7 +4,7 @@ title: Highest Run-Scorers
 search_exclude: true
 ---
 
-<h2>Top Run Scorers in IPL Cricket:
+<b>Top Run Scorers in IPL Cricket:
 
 1. Virat Kohli (Royal Challengers Bangalore): 
    * The undisputed king of IPL, Kohli has consistently dominated the tournament with his class and consistency. 
@@ -20,5 +20,5 @@ search_exclude: true
 
 4. David Warner (Delhi Capitals):
    * The Australian opener has been a force to reckon with, scoring consistently for Sunrisers Hyderabad and Delhi Capitals. 
-   * His ability to dominate bowlers early in the innings has often set the tone for his team's success. </h2>
+   * His ability to dominate bowlers early in the innings has often set the tone for his team's success. </b>
 

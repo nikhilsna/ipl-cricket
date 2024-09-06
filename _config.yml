@@ -1,9 +1,9 @@
 title: IPL Cricket GitHub Page 
 description: "IPL Stats"
-owner_name: John Mortensen
+owner_name: Nikhil Narayan
 github_username: nikhilsna
-github_repo: "student_2025" 
-baseurl: "/student_2025"
+github_repo: "ipl-cricket" 
+baseurl: "/ipl-cricket"
 future: true
 remote_theme: jekyll/minima
 minima:

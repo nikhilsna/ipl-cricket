@@ -1,8 +1,7 @@
 ---
-layout: blogs 
+layout: page 
 title: Highest Run-Scorers
 search_exclude: true
-permalink: none
 ---
 
 Top Run Scorers in IPL Cricket:

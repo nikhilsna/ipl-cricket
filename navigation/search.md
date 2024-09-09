@@ -1,6 +1,6 @@
 ---
 layout: search 
-title: IPL Showdown 2023
+title: Search
 search_exclude: true
 permalink: /search/
 ---

@@ -4,5 +4,4 @@ title: Student Home
 description: Home Page
 hide: true
 ---
-
-Highest run-scoring players, world records and more.
+<i>"When you play for a cricket team, especially India, the jersey doesn't just represent you, it represents the dreams of a billion people."</i> - Virat Kohli

@@ -17,34 +17,6 @@ permalink: /results/
       padding: 20px;
     }
 
-    h1 {
-      text-align: center;
-      color: #333;
-    }
-
-    .results-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 20px;
-      margin-top: 20px;
-    }
-
-    .match {
-      background-color: white;
-      padding: 20px;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-    }
-
-    .match h2 {
-      color: #ff6200;
-      margin-bottom: 10px;
-    }
-
-    .match p {
-      margin: 5px 0;
-      font-size: 14px;
-    }
   </style>
 </head>
 <body>

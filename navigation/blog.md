@@ -7,7 +7,7 @@ search_exclude: true
 <b>Top Run Scorers in IPL Cricket:
 
 1. Virat Kohli (Royal Challengers Bangalore): 
-   * The undisputed king of IPL, Kohli has consistently dominated the tournament with his class and consistency. 
+   * The undisputed king of IPL, Kohli has consistently dominated the tournament with his class and consistency. <img src="https://brightcove.iplt20.com/output/input/6353724999112-1718526347.jpg" alt="Virat Kohli">
    * He holds the record for the most runs in IPL history, with several centuries and half-centuries to his name. 
 
 2. Shikhar Dhawan (Punjab Kings):

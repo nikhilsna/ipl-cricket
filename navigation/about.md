@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: What is "IPL" Cricket?
 permalink: /about/
 ---
 

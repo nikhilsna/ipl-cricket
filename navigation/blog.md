@@ -13,7 +13,7 @@ search_exclude: true
 
 2. <a href ="https://www.espncricinfo.com/cricketers/david-warner-219889">David Warner</a> (Delhi Capitals, 6397 runs):
    * The Australian opener has been a force to reckon with, scoring consistently for Sunrisers Hyderabad and Delhi Capitals. 
-   * His ability to dominate bowlers early in the innings has often set the tone for his team's success. </b>
+   * His ability to dominate bowlers early in the innings has often set the tone for his team's success.
 
 3. <a href ="https://www.espncricinfo.com/cricketers/rohit-sharma-34102">Rohit Sharma</a> (Mumbai Indians, 6,628 runs):
    * The former Indian captain is another prolific run-scorer in the IPL, having led Mumbai Indians to multiple titles. 

@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Student Home 
+title: All About IPL Cricket 
 description: Home Page
 hide: true
 ---
